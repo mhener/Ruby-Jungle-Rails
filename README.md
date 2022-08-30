@@ -1,4 +1,13 @@
-# Jungle
+<br />
+<div align="center">
+  <a href="https://github.com/mhener/Ruby-Jungle-Rails/blob/master/public/images/Logo.png">
+    <img src="public/images/logo.png" alt="Logo">
+  </a>
+  </div>
+  <h1 align="center">Jungle</h1>
+
+
+# Project Description:
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
